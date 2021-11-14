@@ -1,9 +1,18 @@
 body {
   background-color: powderblue;
+  font-family: lato;
+  font-size: 300%
 }
 h1 {
+  background-color: yellow;
   color: red;
+  font-family:times;
+  font-size: 200%;
 }
 p {
+  background-color:antiquewhite;
   color: blue;
+  font-family:courier;
+  font-size:150%;
+  
 }
